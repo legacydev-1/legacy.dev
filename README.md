@@ -2,7 +2,7 @@
   <img width="150px" src="https://i.imgur.com/r07H3Mu.png" align="center" alt="CocktailLogo" />
 </p>
 
-### <p align="center">Legacy</p>
+### <p align="center">🔱 &nbsp;Legacy 🔱</p>
 
 -----
 
@@ -20,14 +20,6 @@
   />
   <br><br>
 </p>
-
------
-
-### <p align="center">👁️‍🗨️ &nbsp;Cliquez pour rejoindre le discord</p>
-
-### <p align="center">[![Cocktail Discord](https://discord.com/api/guilds/786670914439610408/widget.png?style=banner4)](https://discord.gg/cocktaildev)</p>
-
------
 
 ### <p align="center">💰 &nbsp;Donnations PayPal.</p>
 
